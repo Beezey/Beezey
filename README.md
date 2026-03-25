@@ -1,7 +1,5 @@
 # <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Gwendal;Développeur+Web;Disponible+pour+projets&center=true&width=500&height=50" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?lines=Gwendal+MELEY;Bienvenue+sur+mon+profil&size=24&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 <p align="center">
