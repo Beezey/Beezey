@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Gwendal+MELEY;Bienvenue+sur+mon+profil&size=24&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
+---
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Beezey&theme=github-dark&hide_border=true" height="160"/>
 </p>
