@@ -14,14 +14,6 @@
 
 ---
 
-## ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beezey&theme=github-dark&hide_border=true&color=00FF00" />
-</p>
-
----
-
 ## 🛠️ Stack
 
 <p align="center">
