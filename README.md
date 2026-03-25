@@ -31,18 +31,10 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,java,react,,python,,git&theme=dark" />
 </p>
 
----
 
-## 🚀 Projects
-
-* 🔹 Project One — description rapide
-* 🔹 Project Two — description rapide
-* 🔹 Project Three — description rapide
-
----
 
 ## 📫 Contact
 
