@@ -31,7 +31,7 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,react,,python,,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,java,react,python,git&theme=dark" />
 </p>
 
 
