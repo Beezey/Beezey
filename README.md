@@ -24,8 +24,7 @@
 
 ## 📫 Contact
 
-* 📧 [email@email.com](mailto:email@email.com)
-* 💼 LinkedIn
+* 📧 [meleygwendal@gmail.com](meleygwendal@gmail.com)
 * 🌐 Portfolio
 
 ---
