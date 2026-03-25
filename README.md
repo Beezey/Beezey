@@ -1,5 +1,4 @@
-[![Typing SVG] (<img src="https://readme-typing-svg.demolab.com?lines=Gwendal+MELEY;Bienvenue+sur+mon+profil&size=24&duration=4000&pause=1000" alt="Typing SVG">)
-
+# Gwendal Meley
 ---
 
 <p align="center">
