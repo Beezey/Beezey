@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🌟 Projets
-- 🔗 [Pokemon](lien) – courte description
+- 🔗 [Pokemon](https://github.com/Beezey/Pokemon) – courte description
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![React](https://img.shields.io/badge/React-blue)
