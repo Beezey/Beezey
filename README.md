@@ -1,4 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?lines=MELEY+Gwendal;Bienvenue+sur+mon+profil&center=true&width=500&height=50)](https://git.io/typing-svg)
+# <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Gwendal;Développeur+Web;Disponible+pour+projets&center=true&width=500&height=50" alt="Typing SVG">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Beezey&theme=github-dark&hide_border=true" height="160"/>
