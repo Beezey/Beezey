@@ -19,12 +19,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,git&theme=dark" />
 </p>
-
-
-
-## 📫 Contact
-
-📧 [Me contacter](mailto:meleygwendal@gmail.com)
-* 🌐 Portfolio
-
----
