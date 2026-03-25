@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Coding](https://tenor.com/fr/view/one-piece-meme-one-piece-crocodile-es-cine-crocodile-smoking-crocodile-smoke-gif-10588381695212374120)
+## 🌟 Projets
+- 🔗 [Nom du projet](lien) – courte description
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![React](https://img.shields.io/badge/React-blue)
