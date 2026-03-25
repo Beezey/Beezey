@@ -1,4 +1,12 @@
-# <span style="color:#00FFFF">👾 >_ Salut c'est moi gwendal </span>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=SYSTEM+BOOTING...;Bienvenue+sur+Mon+Espace;ACCESS+GRANTED+" />
+
+</div>
+
+---
+
+# <span style="color:#00FFFF">👾 >_ Hello, I'm TON_NOM</span>
 
 ```diff
 + STATUS: ONLINE
@@ -60,7 +68,7 @@ status: Building the future ⚡
 ## 🐍 <span style="color:#00FFFF">SYSTEM ACTIVITY</span>
 
 <p align="center">
-  <img src="https://github.com/Beezey/Beezey/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/TON_PSEUDO/TON_PSEUDO/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
