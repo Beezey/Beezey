@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=FF00FF&center=true&vCenter=true&width=600&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+CYBERSPACE;ACCESS+GRANTED+👾" />
-
-</div>
-
----
-
-# <span style="color:#00FFFF">👾 >_ Hello, I'm TON_NOM</span>
+# <span style="color:#00FFFF">👾 >_ Salut c'est moi gwendal </span>
 
 ```diff
 + STATUS: ONLINE
