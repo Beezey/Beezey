@@ -24,7 +24,7 @@
 
 ## 📫 Contact
 
-* 📧 [meleygwendal@gmail.com](meleygwendal@gmail.com)
+* 📧 [meleygwendal@gmail.com](https://mail.google.com/meleygwendal@gmail.com)
 * 🌐 Portfolio
 
 ---
