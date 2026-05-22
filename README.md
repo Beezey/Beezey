@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Compétences
+## 🛠️ Compétences et outils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,github,css,html,discord,bash,mysql,ps,robloxstudio,vscode,git&theme=dark" />
